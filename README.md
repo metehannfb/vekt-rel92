@@ -5,7 +5,7 @@ Print foksiyonu-2
 ![image](https://github.com/user-attachments/assets/269ed7f3-12f7-41a3-af18-746075c68f16)
 
 
-/n### Hafta- : print-input
-print foksiyonu ile con....<u>Grubu</u>
+### Hafta- : print-input
+/nPrint foksiyonu ile con....<u>Grubu</u>
 ### hafta- : if
 ###hafta- : for
