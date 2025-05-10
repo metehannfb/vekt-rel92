@@ -1,4 +1,3 @@
-input
 print("Merhaba")
 print("metehan bölükbas")
 
