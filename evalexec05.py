@@ -1,0 +1,5 @@
+print("1.satır")
+print("2.satır")
+print("3.satır")
+print("4.satır")
+print("5.satır")

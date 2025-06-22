@@ -1,0 +1,11 @@
+try: 
+    s1 = int(input("1.Sayıyı giriniz"))
+    s2 = int(input("2.Sayıyı giriniz"))
+    işlem = input("Yapılacak islem nedir? (+,-,*,/):")
+    if işlem == "+" : sonuc : print(s1+s2)
+    elif işlem == "/" : sonuc : print(s1/s2)
+except ZeroDivisionError as ee: print(f"Bölen 0 olmaz.Hata mesaji: {ee}")
+except ValueError as aa: print(f"metin ile sayı toplamaz.Hata masaji:{aa}")
+except : print("Hata oluştu")
+else: print("hata yok")
+finally: print("işlem bitti")
